@@ -1,0 +1,11 @@
+SyncAdapter
+
+https://developer.android.com/training/sync-adapters/creating-sync-adapter.html
+https://developer.android.com/training/sync-adapters/index.html
+https://developer.android.com/training/sync-adapters/running-sync-adapter.html
+http://blog.udinic.com/2013/07/24/write-your-own-android-sync-adapter/
+https://github.com/googlesamples/android-BasicSyncAdapter
+
+
+AbstractThreadedSyncAdapter
+https://developer.android.com/reference/android/content/AbstractThreadedSyncAdapter.html

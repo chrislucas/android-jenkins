@@ -1,0 +1,42 @@
+https://developer.android.com/reference/android/app/IntentService.html
+
+
+IntentService: Sub classe De Service
+
+
+https://www.rafaeltoledo.net/tutorial-android-16-utilizando-um-intentservice/
+http://codetheory.in/android-background-services-with-intentservice/
+http://stackoverflow.com/questions/15524280/service-vs-intentservice
+http://stackoverflow.com/questions/7771323/what-is-the-difference-between-an-intentservice-and-a-service
+
+
+https://developer.android.com/guide/components/services.html
+
+Pesquisa: programming, how to whatsapp notify device about new message
+
+https://www.quora.com/How-does-messaging-work-in-WhatsApp
+http://android.stackexchange.com/questions/43970/how-is-whatsapp-able-to-receive-messages-when-not-in-use
+https://firebase.google.com/docs/notifications/
+https://en.wikipedia.org/wiki/Push_technology
+
+
+https://developer.android.com/guide/components/services.html
+
+Thread
+http://stackoverflow.com/questions/20370755/inner-class-runnable-in-java
+http://stackoverflow.com/questions/10186466/creating-threads-through-annomyous-inner-class
+https://docs.oracle.com/javase/tutorial/essential/concurrency/runthread.html
+https://examples.javacodegeeks.com/core-java/lang/runnable/java-runnable-example/
+
+Pesquisar
+difference between Runnable and Thread
+
+Runnable VS Thread
+http://stackoverflow.com/questions/541487/implements-runnable-vs-extends-thread
+http://stackoverflow.com/questions/21871073/java-thread-vs-runnable
+
+
+Share instance if Runnable
+https://www.google.com.br/search?q=Runnable%2C+multiple+threads+can+share+an+instance+of+your+work.&oq=Runnable%2C+multiple+threads+can+share+an+instance+of+your+work.&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8
+https://manikandanmv.wordpress.com/2010/12/10/thread-vs-runnable/
+http://javarevisited.blogspot.com.br/2012/01/difference-thread-vs-runnable-interface.html

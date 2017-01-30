@@ -21,7 +21,7 @@ public class ActivityWorkerService extends AppCompatActivity {
 
 
     public void startNewService(View view) {
-        startService(intent);
+        // https://developer.android.com/reference/android/content/ComponentName.html
         ComponentName componentName = startService(intent);
         if(componentName != null)
             Log.i("LOG", String.format("%s", componentName.toString()));

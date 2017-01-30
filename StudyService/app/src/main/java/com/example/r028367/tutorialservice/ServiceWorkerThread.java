@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ServiceWorkerThread extends Service {
-    private static final int MAX = 200;
+    private static final int MAX = 30;
     private List<WorkerThread> threads;
 
     public class WorkerThread extends Thread {
